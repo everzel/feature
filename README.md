@@ -21,7 +21,7 @@ You can get the package using any of these ways.
 Get the package
 
 ```shell
-yarn add https://github.com/everzel/feature#master
+yarn add https://github.com/everzel/feature#main
 ```
 
 Include module at your application
